@@ -1,0 +1,7 @@
+
+ckpts/
+lightning_logs/
+optuna_test/
+csv/
+
+test_study.pkl
